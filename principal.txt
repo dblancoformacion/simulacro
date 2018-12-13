@@ -1,0 +1,4 @@
+﻿ESTO ES UN SIMULACRO
+
+Aquí vamos a hacer unas pruebas con git...
+
