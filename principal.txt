@@ -13,4 +13,4 @@ que el cliente vea
 Hago más cambios en interno
 *********
 
---- David: la más larga caminata siempre empieza por un paso
+--- David: la más larga caminata siempre empieza por un paso, aunque sea pequeño
