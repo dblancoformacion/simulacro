@@ -14,4 +14,9 @@ Hago más cambios en interno
 *********
 
 --- David: la más larga caminata siempre empieza por un paso
+<<<<<<< HEAD
 --- Lisany: Ya empecé!
+=======
+
+--- Isidro: Que frioooooooooooooooooooooo
+>>>>>>> a25aeda1d0d5d040031cf96337c8a0c5378c4a36
