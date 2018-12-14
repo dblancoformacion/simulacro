@@ -14,15 +14,16 @@ Hago más cambios en interno
 *********
 
 --- David: la más larga caminata siempre empieza por un paso
-<<<<<<< HEAD
+
 
 
 --Imanol: No todo el que deambula está perdido.
 =======
-<<<<<<< HEAD
+
 --- Lisany: Ya empecé!
 =======
 
 --- Isidro: Que frioooooooooooooooooooooo
->>>>>>> a25aeda1d0d5d040031cf96337c8a0c5378c4a36
->>>>>>> 3465fdfb6ebc16195709b96843f29fcc0d3f369f
+
+=======
+--- Luis...trabajand>>> reformaluis
